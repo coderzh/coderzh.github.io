@@ -9,6 +9,8 @@ tags: []
 ###DigitalOcean
 之前买了个便宜的VPS并且在上面搭建了我自己写的博客程序，后来VPS里运行MongoDB经常自己挂掉就索性没理了。直到现在VPS已经过期，服务器被强制关掉了。周末在家索性想着把这个博客程序重新搭建起来。
 
+<!-- more -->
+
 选择Linode还是云主机（阿里云等等）？阿里云貌似有些贵，而且还有一堆备案的流程。Linode最近推出SSD服务，20刀/月的价格，加量不加价，很是吸引人。但无奈还是花的有些心疼。忽然另外一个VPS服务[DigitalOcean](https://www.digitalocean.com/?refcode=e131e2bba197)(链接含refcode喔)被我无意发现。DigitalOcean是一家IaaS服务提供商，其特色就是提供快速的固态硬盘服务器，该公司宣称可在55秒之内搭建好一台云服务器，所有的服务器均拥有1G的网络接口，每月基础套餐为1TB，最低套餐费用仅为5美元/月。
 
 ![DigitalOcean](http://images.cnitblog.com/blog/16913/201405/190032003752557.jpg)

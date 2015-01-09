@@ -8,6 +8,8 @@ tags: []
 
 自从购买了DigitalOcean的VPS，就一直在上面折腾着。首当其冲的，是把我的博客转移到VPS中来，实现自己的独立博客。开始打算的是一切自己DIY，并且我之前也写过一套博客程序，用Python+Tornado+mongodb实现的。虽然很久没有维护，但还是可用的状态。
 
+<!-- more -->
+
 最终，我还是放弃了自己写的NancyBlog(http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：
 
  1. 我只是博客的使用者，应该把博客程序的开发交给更加有经验和经历的人。
