@@ -1,15 +1,31 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-encoding: utf-8
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
 
-# Build settings
-markdown: kramdown
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:year/:month/:day/:title
+relative_permalinks: true
+
+# Setup
+title:               CoderZh 
+tagline:             '一个程序员的思考与总结'
+description:         '如果你没有感觉到时间不够用了，你多半正在虚度光阴。'
+url:                 http://blog.coderzh.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              CoderZh
+  url:               https://twitter.com/coderzh
+  email:             pythonzh@gmail.com
+
+comments :
+   provider : duoshuo
+    duoshuo : 
+   shortname : coderzh
+
+# Custom vars
+version:             1.0.0

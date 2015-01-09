@@ -1,11 +1,37 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 关于我
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p class="message">
+大家好，我叫CoderZh，是一名程序员。
+</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+###我的经历
+ * 2003-2007 中南大学土木工程系 
+ * 2007-2010 测试开发（SDET 金山软件）。
+ * 2010-至今 游戏开发工程师（创业）
+
+###我的技能
+ * 编程语言：C++, C#, Python, Lua。钟爱Python。
+ * 网站开发：略懂前端，喜欢后端，通常使用Tornado。
+ * 熟悉Cocos2d-X游戏开发。
+ * Unity3D正在学，目前打打酱油。
+ * 熟悉网游服务端开发。具有一定架构能力。
+
+###生活中的我
+ * 喜欢玩游戏：LOL，FIFA，及各种虐心小游戏。喜欢挑战。
+ * 乒乓球打的还不行。
+ * 喜欢看有内涵的电影及美剧，偶尔也陪老妈看国产家庭连续剧。
+ * 喜欢思考，对未知世界保持好奇心。
+ * 有点宅。
+
+###声明
+
+本博客所有文章皆为原创。谢绝一切不遵守署名、非商业用途和保持一致的转载或使用。
+
+联系方式：pythonzh@gmail.com
+
+微信号：coderzh
+
