@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               CoderZh 
 tagline:             '一个程序员的思考与总结'
-description:         '如果你没有感觉到时间不够用了，你多半正在虚度光阴。'
+description:         '如果你没有感觉到时间不够用时，你多半正在虚度光阴。'
 url:                 http://blog.coderzh.com
 baseurl:             /
 paginate:            5
