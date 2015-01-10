@@ -14,7 +14,7 @@ title: 分类
 {% for post in cat[1] %}
 <div class="article">
 <span class="datetime">{{ post.date | date:"%Y-%m-%d" }} </span>
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}" rel="nofollow">{{ post.title }}</a>
 </div>
 {% endfor %}
 {% endfor %}
