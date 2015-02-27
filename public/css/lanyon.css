@@ -555,8 +555,8 @@ a.pagination-item:hover {
 .qrcode {
     position:fixed;
     _position:absolute;
-    top:100px;
-    left:160px;
+    bottom:80px;
+    right:80px;
 }
 
 .qrcode img {
