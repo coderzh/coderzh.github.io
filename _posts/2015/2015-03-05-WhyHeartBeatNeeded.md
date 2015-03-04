@@ -11,6 +11,8 @@ keywords: [HeartBeat,KeepAlive,Ping]
 
 <!-- more -->
 
+![HeartBeat](http://mmbiz.qpic.cn/mmbiz/otHvoL6neeKA0dQuDEwUD4DN5ZmOXczgKfvHc8H92tMibYuWx0tgpKicR4Wee9v0NngTm2Mcj6D6UpxH8vdrDrMg/0?tp=webp&wxfrom=5)
+
 由于连接丢失时，TCP不会立即通知应用程序。比如说，客户端程序断线了，服务端的TCP连接不会检测到断线，而是一直处于连接状态。这就带来了很大的麻烦，明明客户端已经断了，服务端还维护着客户端的连接，照常执行着该玩家的游戏逻辑……
 
 心跳包就是用来及时检测是否断线的一种机制，通过每间隔一定时间发送心跳数据，来检测对方是否连接。是属于应用程序协议的一部分。
