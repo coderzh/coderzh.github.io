@@ -8,13 +8,11 @@ keywords: [skynet,ubuntu,VirtualBox,安装增强功能,共享文件夹,GuestAddi
 date: 2015-01-14 15:11:00
 ---
 
-### skynet
-
 [skynet](https://github.com/cloudwu/skynet)是一个c和lua实现的轻量级actor模型服务端框架。看了所有文档，对skynet有了大致的了解。还需进一步考察看是否合适做为手游mmo服务端框架。
 
-由于skynet只有linux版本，如果开发平台是windows就会比较麻烦。于是打算使用虚拟机执行skynet程序，lua脚本放在虚拟机的共享目录里。于是lua可以方便的在Windows中编写，在Linux虚拟机里执行。
-
 <!-- more -->
+
+由于skynet只有linux版本，如果开发平台是windows就会比较麻烦。于是打算使用虚拟机执行skynet程序，lua脚本放在虚拟机的共享目录里。于是lua可以方便的在Windows中编写，在Linux虚拟机里执行。
 
 ### VirtualBox
 
