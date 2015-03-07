@@ -13,7 +13,7 @@ keywords: [hacker]
 
 <!-- more -->
 
-![HackersAndPainters](http://mmbiz.qpic.cn/mmbiz/otHvoL6neeJVgmwOrXTASgJibTzObG8S9KcUMVCgobLkgsuuiaw4HH3ol5aY9waqFUibEGIicWtB8nicaUC9XPeDbvQ/0?tp=webp&wxfrom=5)
+![HackersAndPainters](http://mmbiz.qpic.cn/mmbiz/otHvoL6neeJVgmwOrXTASgJibTzObG8S9KcUMVCgobLkgsuuiaw4HH3ol5aY9waqFUibEGIicWtB8nicaUC9XPeDbvQ/0?wxfrom=5)
 
 首先是书名：黑客与画家。书中关于黑客与画家之间的联系描述的很少，主要总结为：程序员写代码并不是一气呵成，而是像画家一般，先画个轮（框）廓（架），再调整细（功）节（能），然后不然修（缺）缮（陷）。黑客写代码是一件有艺术的活，不是工程的活。
 
