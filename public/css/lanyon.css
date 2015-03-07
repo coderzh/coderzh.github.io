@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   bottom: 0;
   left: -15rem;
-  width: 15rem;
+  width: 16rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -300,6 +300,12 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   margin-bottom: 4em;
+}
+
+.post h3 {
+    border-bottom: 1px solid #eee;
+    margin-top: 2em;
+    font-weight: bold;
 }
 
 /* Blog post or page title */
