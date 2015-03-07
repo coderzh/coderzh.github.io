@@ -308,6 +308,12 @@ a.sidebar-nav-item:focus {
     font-weight: bold;
 }
 
+.page h3 {
+    border-bottom: 1px solid #eee;
+    margin-top: 2em;
+    font-weight: bold;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
