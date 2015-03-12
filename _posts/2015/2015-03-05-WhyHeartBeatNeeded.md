@@ -27,6 +27,8 @@ keywords: [HeartBeat,KeepAlive,Ping]
 
 TCP有个KeepAlive开关，打开后可以用来检测死连接。通常默认是2小时，可以自己设置。但是注意，这是TCP的全局设置。假如为了能更及时的检测出断开的连接，把`tcp_keepalive_time`和`tcp_keepalive_intvl`的时间改小（参考：[Link](http://tldp.org/HOWTO/TCP-Keepalive-HOWTO/usingkeepalive.html)），该机器上所有应用程序的KeepAlive检测间隔都会变小，显然是不能接受的。因为不同应用程序的需求是不一样的。
 
+(在某些平台的Socket实现已经支持为每条连接单独设置KeepAlive参数)
+
 KeepAlive本质上来说，是用来检测长时间不活跃的连接的。所以，不适合用来及时检测连接的状态。
 
 **问题3：心跳包（HeartBeat）为什么是好的方式及时检测连接状态？**
