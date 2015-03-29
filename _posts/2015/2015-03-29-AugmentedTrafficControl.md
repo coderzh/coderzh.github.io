@@ -24,7 +24,7 @@ keywords: [Augmented Traffic Control 网络模拟 工具]
 ATC有两个最吸引人的特点：
 
 1. **在手机上通过Web界面就可以随时切换不同的网络环境。**
-1. **多个手机可以连接到同一个WIFI下，各种模拟的网络环境各不影响。**
+1. **多个手机可以连接到同一个WIFI下，相互之间模拟的网络环境各不影响。**
 
 可以想象一下这个场景：一群程序猿和测试猴子热火朝天的在办公室忙活着，这时有一个叫ATC WiFi的热点，任何人都可以将手机连接上去，通过Web界面随意切换到各种不同的网络环境下进行调试和测试……
 
@@ -55,14 +55,14 @@ pip install atc_thrift atcd django-atc-api django-atc-demo-ui django-atc-profile
 
 接下来部署Django的web工程，提供手机访问并用来配置和切换网络用的。
 
-1. 使用django-admin生成一个新的django工程：
+1.使用django-admin生成一个新的django工程：
 
 ```
 django-admin startproject atcui
 cd atcui
 ```
 
-修改atcui/settings.py，加入ATC相关的内容：
+2.修改atcui/settings.py，加入ATC相关的内容：
 
 ```
 INSTALLED_APPS = (
@@ -79,7 +79,7 @@ INSTALLED_APPS = (
 )
 ```
 
-修改atcui/urls.py，urlpatterns 中加入atc的url页面：
+3.修改atcui/urls.py，urlpatterns 中加入atc的url页面：
 
 ```
 ...
@@ -98,13 +98,13 @@ urlpatterns = patterns('',
 )
 ```
 
-更新一下数据库：
+4.更新一下数据库：
 
 ```
 python manage.py migrate
 ```
 
-万事俱备，就差启动了……
+**万事俱备，就差启动了……**
 
 前面设置WiFI热点时，你还记得设置的无线网卡的名字吗？嗯，就是wlan0，这个很重要。接下来要启动网络控制的核心组件atcd，需要通过参数指定提供Wifi热点的内网用的网卡名字，外网访问的网卡名默认是eth0（如果不是也需要通过--atcd-wan指定）
 
