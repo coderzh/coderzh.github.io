@@ -64,7 +64,7 @@ cd atcui
 
 2.修改atcui/settings.py，加入ATC相关的内容：
 
-```
+``` python 
 INSTALLED_APPS = (
     ...
     # Django ATC API
@@ -81,7 +81,7 @@ INSTALLED_APPS = (
 
 3.修改atcui/urls.py，urlpatterns 中加入atc的url页面：
 
-```
+``` python
 ...
 ...
 from django.views.generic.base import RedirectView
