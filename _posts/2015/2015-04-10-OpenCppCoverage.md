@@ -7,11 +7,13 @@ tags: []
 keywords: [开源,C++覆盖率,Windows,单元测试,gcov,Jenkins,OpenCppCoverage]
 ---
 
-关于代码覆盖率统计工具，Linux平台下，gcc内置支持gcov，通过编译时加参数选项，进行代码插桩，从而实现代码覆盖率。在Windows平台下，早在几年前，我还没找到特别好用又开源的覆盖率工具，所以以前公司是自己实现了一套，使用起来也不是很方便。
-
-最近又遇到同样的问题，不过非常幸运的是，一款开源的Windows平台的C++代码覆盖率工具出现了在我的面前：OpenCppCoverage。使用起来非常的简单，它不需要在编译时插桩，只需要有pdb文件，使用OpenCppCoverage启动进程即可。
+Windows平台下开源的C++代码覆盖率工具，使用简单，功能齐全而强大。2014年才推出的，只恨没有早点发现。
 
 <!-- more -->
+
+关于代码覆盖率统计工具，Linux平台下，gcc内置支持gcov，通过编译时加参数选项，进行代码插桩，从而实现代码覆盖率。在Windows平台下，早在几年前，我还没找到特别好用又开源的覆盖率工具，所以以前公司是自己实现了一套，使用起来也不是很方便。
+
+最近又遇到同样的问题，不过非常幸运的是，一款开源的Windows平台的C++代码覆盖率工具出现了在我的面前：OpenCppCoverage。使用起来非常简单，它不需要在编译时插桩，只需要有pdb文件，运行时插桩，通过OpenCppCoverage启动进程即可。
 
 官网：[https://opencppcoverage.codeplex.com/](https://opencppcoverage.codeplex.com/)
 
