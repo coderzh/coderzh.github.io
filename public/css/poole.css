@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 2.0;
 }
 @media (min-width: 38em) {
   html {
@@ -83,7 +83,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
-  line-height: 1.25;
+  line-height: 1.5;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
@@ -165,7 +165,7 @@ pre {
   margin-bottom: 1rem;
   padding: 1rem;
   font-size: .8rem;
-  line-height: 1.4;
+  line-height: 1.9;
   white-space: pre;
   white-space: pre-wrap;
   word-break: break-all;
@@ -201,7 +201,7 @@ pre code {
 }
 .gist .gist-file .gist-data {
   font-size: .8rem !important;
-  line-height: 1.4;
+  line-height: 1.9;
 }
 .gist code {
   padding: 0;
