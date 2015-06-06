@@ -1,7 +1,7 @@
 ---
 title: 通过.NET Remoting调用CCNET接口的方法
 layout: post
-category: C#
+category: Programming
 date: 2009-10-18 17:32:00
 ---
 

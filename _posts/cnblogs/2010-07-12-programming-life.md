@@ -1,7 +1,7 @@
 ---
 title: 多彩的程序人生
 layout: post
-category: 
+category: 思考感悟
 date: 2010-07-12 00:27:00
 ---
 

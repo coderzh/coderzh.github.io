@@ -1,7 +1,7 @@
 ---
 title: Python天天美味(总)
 layout: post
-category: Python
+category: Programming
 date: 2008-07-08 09:22:00
 ---
 

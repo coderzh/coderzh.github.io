@@ -1,7 +1,7 @@
 ---
 title: 我的测试生活感悟5 - 不要被代码覆盖率蒙蔽双眼
 layout: post
-category: 
+category: 思考感悟
 date: 2010-01-02 00:52:00
 ---
 

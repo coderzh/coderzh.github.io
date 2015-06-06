@@ -1,7 +1,7 @@
 ---
 title: 收集的QCon 北京(Beijing) 2010 PPT 及总结
 layout: post
-category: 思考感悟
+category: Programming
 date: 2010-04-28 23:37:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记4 - Principles of Test Automation
 layout: post
-category: 
+category: Programming
 date: 2010-01-23 12:38:00
 ---
 

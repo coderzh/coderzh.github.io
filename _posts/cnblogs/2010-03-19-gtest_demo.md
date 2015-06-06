@@ -1,7 +1,7 @@
 ---
 title: gtest参数化测试代码示例
 layout: post
-category: 
+category: Programming
 date: 2010-03-19 21:34:00
 ---
 

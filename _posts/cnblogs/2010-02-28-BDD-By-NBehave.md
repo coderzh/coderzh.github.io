@@ -1,7 +1,7 @@
 ---
 title: 通过NBehave了解BDD(Behavior Driven Development)
 layout: post
-category: C#
+category: Programming
 date: 2010-02-28 13:00:00
 ---
 

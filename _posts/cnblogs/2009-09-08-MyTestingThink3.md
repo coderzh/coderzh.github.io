@@ -1,7 +1,7 @@
 ---
 title: 我的测试生活感悟3 - 淘宝的接口测试白皮书
 layout: post
-category: 
+category: 思考感悟
 date: 2009-09-08 00:22:00
 ---
 

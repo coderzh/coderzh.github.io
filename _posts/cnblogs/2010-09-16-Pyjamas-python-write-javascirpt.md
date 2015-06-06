@@ -1,7 +1,7 @@
 ---
 title: Pyjamas - 用python代替javascript编写基于浏览器的应用
 layout: post
-category: Python
+category: Programming
 date: 2010-09-16 23:09:00
 ---
 

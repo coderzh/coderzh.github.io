@@ -1,7 +1,7 @@
 ---
 title: Chrome默认字体太小解决办法
 layout: post
-category: 
+category: Programming
 date: 2010-07-18 10:05:00
 ---
 

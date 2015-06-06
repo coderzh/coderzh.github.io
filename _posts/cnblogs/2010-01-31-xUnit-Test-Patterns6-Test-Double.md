@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记6 - Test Double
 layout: post
-category: 
+category: Programming
 date: 2010-01-31 19:56:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 发布基于GAE的个人Wiki系统 - NancyWiki
 layout: post
-category: Python
+category: Programming
 date: 2010-09-12 22:16:00
 ---
 

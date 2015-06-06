@@ -1,7 +1,7 @@
 ---
 title: Android游戏开发 - NancyGLines设计
 layout: post
-category: Android
+category: Programming
 date: 2010-03-23 00:47:00
 ---
 

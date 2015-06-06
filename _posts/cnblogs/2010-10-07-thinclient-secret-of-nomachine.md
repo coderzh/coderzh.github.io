@@ -1,7 +1,7 @@
 ---
 title: 瘦客户端那些事 - NoMachine的秘密
 layout: post
-category: 学习笔记
+category: Programming
 date: 2010-10-07 15:37:00
 ---
   

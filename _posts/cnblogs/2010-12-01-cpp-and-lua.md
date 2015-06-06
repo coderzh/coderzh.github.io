@@ -1,7 +1,7 @@
 ---
 title: C++与Lua互操作学习
 layout: post
-category: 
+category: Programming
 date: 2010-12-01 21:07:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Android刷机备忘录
 layout: post
-category: Android
+category: Programming
 date: 2011-03-06 21:42:00
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "DigitalOcean上使用Tornado+MongoDB+Nginx+Supervisor+DnsPod快速搭建个人博客"
 description: ""
-category: 折腾
+category: Programming
 tags: []
 ---
 

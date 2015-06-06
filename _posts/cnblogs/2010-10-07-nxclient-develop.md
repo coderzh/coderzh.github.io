@@ -1,7 +1,7 @@
 ---
 title: NX Client开发步骤
 layout: post
-category: 学习笔记
+category: Programming
 date: 2010-10-07 15:34:00
 ---
 

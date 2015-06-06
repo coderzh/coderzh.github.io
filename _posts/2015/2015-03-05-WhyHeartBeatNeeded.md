@@ -2,7 +2,7 @@
 layout: post
 title: 为什么心跳包(HeartBeat)是必须的？
 description: "需要及时检测TCP连接状态，心跳包(HeartBeat)还是必须的"
-category: 
+category: Programming
 tags: []
 keywords: [HeartBeat,KeepAlive,Ping]
 ---

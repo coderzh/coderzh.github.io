@@ -1,7 +1,7 @@
 ---
 title: Python天天美味(34) - Decorators详解
 layout: post
-category: Python
+category: Programming
 date: 2010-04-27 01:22:00
 ---
 

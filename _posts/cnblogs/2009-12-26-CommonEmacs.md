@@ -1,7 +1,7 @@
 ---
 title: 最常用的Emacs的基本操作
 layout: post
-category: 折腾
+category: Programming
 date: 2009-12-26 14:34:00
 ---
 

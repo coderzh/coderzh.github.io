@@ -1,7 +1,7 @@
 ---
 title: 瘦客户端那些事 - 开篇
 layout: post
-category: 学习笔记
+category: Programming
 date: 2010-09-11 14:40:00
 ---
 

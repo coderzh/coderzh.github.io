@@ -1,7 +1,7 @@
 ---
 title: Django单元测试案例代码覆盖率统计 - 自定义test runner
 layout: post
-category: 
+category: Programming
 date: 2009-12-01 21:43:00
 ---
 

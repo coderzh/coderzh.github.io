@@ -1,7 +1,7 @@
 ---
 title: Google Test交流与测试开发经验总结
 layout: post
-category: 
+category: Programming
 date: 2010-12-31 00:33:00
 ---
 

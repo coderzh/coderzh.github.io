@@ -1,7 +1,7 @@
 ---
 title: Python 天天美味(37) - 让python的unittest像gtest一样输出
 layout: post
-category: Python
+category: Programming
 date: 2010-08-23 02:44:00
 ---
 

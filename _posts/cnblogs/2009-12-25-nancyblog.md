@@ -1,7 +1,7 @@
 ---
 title: NancyBlog - 我的Google App Engine Blog
 layout: post
-category: Python
+category: Programming
 date: 2009-12-25 11:04:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记2 - Goal Of Test Automation
 layout: post
-category: 
+category: Programming
 date: 2010-01-18 19:23:00
 ---
 

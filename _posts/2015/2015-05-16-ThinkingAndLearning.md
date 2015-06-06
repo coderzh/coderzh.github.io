@@ -2,7 +2,7 @@
 layout: post
 title: 读《程序员的思维训练》
 description: ""
-category: 
+category: 读书笔记
 tags: []
 keywords: [程序员的思维训练]
 ---

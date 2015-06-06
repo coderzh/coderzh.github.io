@@ -1,7 +1,7 @@
 ---
 title: C# 4.0新特性学习资料汇总
 layout: post
-category: C#
+category: Programming
 date: 2010-04-24 22:00:00
 ---
 

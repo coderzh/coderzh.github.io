@@ -1,7 +1,7 @@
 ---
 title: ASP.NET4.0新的语法用于HTML Encoding
 layout: post
-category: C#
+category: Programming
 date: 2010-04-21 21:36:00
 ---
 

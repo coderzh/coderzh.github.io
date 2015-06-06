@@ -1,7 +1,7 @@
 ---
 title: 我的测试生活感悟2 - Art Of Unit Testing
 layout: post
-category: 
+category: 思考感悟
 date: 2009-09-07 00:25:00
 ---
 

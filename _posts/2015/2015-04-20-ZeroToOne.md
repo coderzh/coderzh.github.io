@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读《从0到1》
-category: 
+category: 读书笔记
 tags: []
 keywords: [从0到1]
 ---

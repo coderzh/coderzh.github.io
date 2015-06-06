@@ -2,7 +2,7 @@
 layout: post
 title: 最近的一些变化
 description: ""
-category: 
+category: 思考感悟
 tags: []
 keywords: []
 ---

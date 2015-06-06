@@ -1,7 +1,7 @@
 ---
 title: Google App Engine的14宗罪
 layout: post
-category: Python
+category: Programming
 date: 2010-11-30 01:41:00
 ---
 

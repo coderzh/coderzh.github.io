@@ -1,7 +1,7 @@
 ---
 title: Python测试开发分享感悟
 layout: post
-category: Python
+category: Programming
 date: 2010-08-27 00:17:00
 ---
 

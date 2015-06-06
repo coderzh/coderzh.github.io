@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记7(完) - 总结
 layout: post
-category: 
+category: Programming
 date: 2010-02-07 22:17:00
 ---
 

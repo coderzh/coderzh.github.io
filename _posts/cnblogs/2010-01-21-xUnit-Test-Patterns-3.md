@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记3 - Philosophy of Test Automation
 layout: post
-category: 
+category: Programming
 date: 2010-01-21 00:12:00
 ---
 

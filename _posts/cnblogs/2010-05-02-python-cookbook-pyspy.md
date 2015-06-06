@@ -1,7 +1,7 @@
 ---
 title: Python天天美味(36) - 用Python实现Spy++
 layout: post
-category: Python
+category: Programming
 date: 2010-05-02 15:41:00
 ---
 

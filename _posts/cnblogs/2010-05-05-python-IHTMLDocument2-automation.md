@@ -1,7 +1,7 @@
 ---
 title: Python操作IHTMLDocument2用于自动化测试
 layout: post
-category: Python
+category: Programming
 date: 2010-05-05 00:57:00
 ---
 

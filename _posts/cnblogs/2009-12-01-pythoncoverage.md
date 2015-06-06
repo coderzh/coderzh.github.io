@@ -1,7 +1,7 @@
 ---
 title: Python 代码覆盖率统计工具 coverage.py
 layout: post
-category: Python
+category: Programming
 date: 2009-12-01 21:19:00
 ---
 

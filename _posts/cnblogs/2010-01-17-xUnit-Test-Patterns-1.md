@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记1 - Test Smell
 layout: post
-category: 
+category: Programming
 date: 2010-01-17 23:25:00
 ---
 

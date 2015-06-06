@@ -1,7 +1,7 @@
 ---
 title: 编写优美的GTest测试案例
 layout: post
-category: 
+category: Programming
 date: 2010-01-09 14:26:00
 ---
 
