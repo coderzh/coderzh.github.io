@@ -4,7 +4,7 @@ title: 分类
 ---
 <div class="page-category">
 {% for cat in site.categories %}
-<a href="index.html#{{ cat[0] }}">{{ cat[0] }}</a>
+<a href="category.html#{{ cat[0] }}">{{ cat[0] }}</a>
 {% endfor %}
 </div>
 
