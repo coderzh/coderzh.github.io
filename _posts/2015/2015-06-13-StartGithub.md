@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开启Github开源之旅
+title: 开启Github之旅
 description: ""
 category: 思考感悟
 tags: []
