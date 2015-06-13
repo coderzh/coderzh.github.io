@@ -36,3 +36,4 @@ title: 关于我
 
 微信公众号：hacker-thinking
 
+<img src="http://blog.coderzh.com/public/qrcode.jpg" width="172px" height="172px"/>
