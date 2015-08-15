@@ -41,11 +41,11 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "微软雅黑","黑体", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "微软雅黑","黑体", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -145,26 +145,26 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   bottom: 0;
   left: -15rem;
-  width: 16rem;
+  width: 18rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem; /* 15px */
+  font-size: 1rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: #282828;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .875rem; /* 15px */
+    font-size: 1rem; /* 15px */
   }
 }
 
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: #c2bfa5;
 }
 .sidebar-item {
   padding: 1.5rem;
@@ -179,6 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-nav-item {
   display: block;
+  font-family: "微软雅黑","黑体", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   padding: .5rem 1.6rem;
   border-top: 1px solid rgba(255,255,255,.1);
 }
@@ -192,10 +193,10 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-item {
-    padding: 2.0rem;
+    padding: 2.0rem 1.0rem 2.0rem 2.0rem;
   }
   .sidebar-nav-item {
-    padding-left:  2.0rem;
+    padding-left:  2.5rem;
     padding-right: 2.0rem;
   }
 }
@@ -209,7 +210,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle {
   position: absolute;
   top:  1rem;
-  left: 1rem;
+  left: 3.5rem;
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
@@ -222,7 +223,7 @@ a.sidebar-nav-item:focus {
   display: block;
   content: "";
   width: 100%;
-  padding-bottom: .125rem;
+  padding-bottom: .25rem;
   border-top: .375rem double;
   border-bottom: .125rem solid;
 
@@ -244,7 +245,7 @@ a.sidebar-nav-item:focus {
     width: 2.25rem;
   }
   .sidebar-toggle:before {
-    padding-bottom: .15rem;
+    padding-bottom: .20rem;
     border-top-width: .45rem;
     border-bottom-width: .15rem;
   }
@@ -370,7 +371,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "微软雅黑","黑体", "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   color: #ccc;
   text-align: center;
 }
