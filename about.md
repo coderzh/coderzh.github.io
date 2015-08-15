@@ -29,12 +29,24 @@ title: 关于我
  * 喜欢思考，对未知世界保持好奇心。
  * 有点宅。
 
+###系列文章
+
+ * [玩转Google开源C++单元测试框架Google Test系列](http://www.cnblogs.com/coderzh/archive/2009/04/06/1426755.html)
+ * [Python天天美味](http://www.cnblogs.com/coderzh/archive/2008/07/08/pythoncookbook.html)
+
+
+###一些链接
+
+ * 我的独立博客：[blog.coderzh.com](http://blog.coderzh.com)
+ * 博客园博客：[coderzh.cnblogs.com](http://coderzh.cnblogs.com)
+ * 新浪微博：[weibo.com/coderzh](http://weibo.com/coderzh)
+ * Twitter：[twitter.com/coderzh](https://twitter.com/coderzh)
+ * Github: [github.com/coderzh](https://github.com/coderzh)
+ * Email：coderzh@qq.com(pythonzh@gmail.com)
+ * 微信公众号：hacker-thinking
+ <img src="http://blog.coderzh.com/public/qrcode.jpg" width="172px" height="172px"/>
+
 ###声明
 
 本博客所有文章皆为原创。转载请注明原文链接，并最好与本人联系。谢谢！
 
-联系方式：pythonzh@gmail.com
-
-微信公众号：hacker-thinking
-
-<img src="http://blog.coderzh.com/public/qrcode.jpg" width="172px" height="172px"/>
