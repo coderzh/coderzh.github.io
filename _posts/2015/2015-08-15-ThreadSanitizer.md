@@ -3,7 +3,7 @@ layout: post
 title: 使用ThreadSanitizer线程检查工具
 description: "ThreadSanitizer又叫TSan，是一个检查线程Data Race的C/C++工具。它集成在新版的gcc和clang中，通过编译时加-fsanitize=thread，可以在运行时检测出Data Race的问题。"
 category: 技术文章
-keywords: [线程安全, 代码扫描]
+keywords: [ThreadSanitizer, TSan, 线程安全, 代码扫描]
 ---
 
 ThreadSanitizer又叫TSan，是一个检查线程Data Race的C/C++工具。它集成在新版的gcc和clang中，通过编译时加-fsanitize=thread，可以在运行时检测出Data Race的问题。
