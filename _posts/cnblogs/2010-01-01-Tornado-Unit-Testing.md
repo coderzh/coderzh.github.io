@@ -1,7 +1,7 @@
 ---
 title: Tornado Unit Testing - Tornado应用的单元测试
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-01-01 10:48:00
 ---
 

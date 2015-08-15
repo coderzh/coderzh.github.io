@@ -1,7 +1,7 @@
 ---
 title: Emacs中打造强大的Python IDE
 layout: post
-category: Programming
+category: 技术文章
 date: 2009-12-26 16:00:00
 ---
 

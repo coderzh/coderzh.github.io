@@ -1,7 +1,7 @@
 ---
 title: 三言两语话敏捷(1) - 反馈
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-04-18 12:47:00
 ---
 

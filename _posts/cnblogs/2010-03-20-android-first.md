@@ -1,7 +1,7 @@
 ---
 title: Android应用开发初印象
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-03-20 00:20:00
 ---
 

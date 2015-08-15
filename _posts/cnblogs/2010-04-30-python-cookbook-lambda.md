@@ -1,7 +1,7 @@
 ---
 title: Python天天美味(35) - 细品lambda
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-04-30 23:51:00
 ---
 

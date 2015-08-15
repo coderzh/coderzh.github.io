@@ -1,7 +1,7 @@
 ---
 title: 三言两语话敏捷(2) - 持续集成
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-04-21 01:04:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Google App Engine的14宗罪
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-11-30 01:41:00
 ---
 

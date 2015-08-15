@@ -2,7 +2,7 @@
 layout: post
 title: skynet Windows开发方式：VirtualBox中共享文件夹
 description: ""
-category: Programming
+category: 技术文章
 tags: []
 keywords: [skynet,ubuntu,VirtualBox,安装增强功能,共享文件夹,GuestAdditions]
 date: 2015-01-14 15:11:00

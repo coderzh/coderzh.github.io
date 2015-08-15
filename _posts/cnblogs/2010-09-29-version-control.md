@@ -1,7 +1,7 @@
 ---
 title: 关于版本控制软件
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-09-29 00:50:00
 ---
 

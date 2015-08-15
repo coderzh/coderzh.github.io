@@ -1,7 +1,7 @@
 ---
 title: 激动 - 《赢在测试：中国软件测试先行者之道》
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-01-24 12:52:00
 ---
 

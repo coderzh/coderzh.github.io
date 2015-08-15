@@ -2,7 +2,7 @@
 layout: post
 title: Facebook网络模拟测试工具ATC使用
 description: ""
-category: Programming
+category: 技术文章
 tags: []
 keywords: [Augmented Traffic Control 网络模拟 工具]
 ---

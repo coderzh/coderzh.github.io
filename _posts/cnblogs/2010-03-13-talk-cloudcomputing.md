@@ -1,7 +1,7 @@
 ---
 title: 白话云计算
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-03-13 11:55:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 将母版页或ASPX等其他资源编译到DLL，在多个ASP.NET工程中共享
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-01-26 22:18:00
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "自豪的使用上了WordPress"
 description: ""
-category: Programming
+category: 技术文章
 tags: []
 ---
 

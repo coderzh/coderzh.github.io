@@ -1,7 +1,7 @@
 ---
 title: Get IHTMLDocument2 for UI Automation in Python
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-05-05 01:23:00
 ---
 

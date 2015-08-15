@@ -1,7 +1,7 @@
 ---
 title: 从CEGUI源码看代码规范
 layout: post
-category: Programming
+category: 技术文章
 date: 2011-05-08 19:30:00
 ---
   

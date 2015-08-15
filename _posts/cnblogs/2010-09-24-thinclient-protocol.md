@@ -1,7 +1,7 @@
 ---
 title: 瘦客户端那些事 - 远程传输协议
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-09-24 12:29:00
 ---
   

@@ -1,7 +1,7 @@
 ---
 title: 成功将ubuntu9.10升级到了10.04
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-05-02 12:16:00
 ---
 

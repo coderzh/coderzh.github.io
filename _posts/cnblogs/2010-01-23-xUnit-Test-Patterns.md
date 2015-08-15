@@ -1,7 +1,7 @@
 ---
 title: 《xUnit Test Patterns》学习笔记系列
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-01-23 12:45:00
 ---
 

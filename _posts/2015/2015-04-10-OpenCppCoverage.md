@@ -2,7 +2,7 @@
 layout: post
 title: C++开源代码覆盖率工具OpenCppCoverage介绍(Windows)
 description: "C++开源代码覆盖率工具OpenCppCoverage"
-category: Programming
+category: 技术文章
 tags: []
 keywords: [开源,C++覆盖率,Windows,单元测试,gcov,Jenkins,OpenCppCoverage]
 ---

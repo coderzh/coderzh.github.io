@@ -1,7 +1,7 @@
 ---
 title: Python查询Google PageRank
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-01-11 12:29:00
 ---
   

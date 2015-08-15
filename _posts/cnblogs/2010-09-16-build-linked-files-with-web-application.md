@@ -1,7 +1,7 @@
 ---
 title: ASP.NET Web Application中使用链接文件
 layout: post
-category: Programming
+category: 技术文章
 date: 2010-09-16 22:06:00
 ---
 
