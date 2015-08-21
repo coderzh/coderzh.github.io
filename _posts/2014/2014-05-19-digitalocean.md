@@ -6,7 +6,7 @@ category: 技术文章
 tags: []
 ---
 
-###DigitalOcean
+### DigitalOcean
 之前买了个便宜的VPS并且在上面搭建了我自己写的博客程序，后来VPS里运行MongoDB经常自己挂掉就索性没理了。直到现在VPS已经过期，服务器被强制关掉了。周末在家索性想着把这个博客程序重新搭建起来。
 
 <!-- more -->
@@ -22,7 +22,7 @@ tags: []
 有兴趣的同学可以用我的推荐链接注册哦，我也能得到一些好处。注册链接：[DigitalOcean](https://www.digitalocean.com/?refcode=e131e2bba197)
 用到哪天不想用了，DigitalOcean还提供了生成一个镜像(Image)的功能，然后你取消掉VPS服务器(Droplets)，之后将不收取费用。哪天忽然又想用了再开通它，用之前的镜像一还原，马上就恢复了之前的环境，很是方便。
 
-###VPS安装必要的软件
+### VPS安装必要的软件
 
 ```
 sudo apt-get install git
@@ -37,7 +37,7 @@ sudo pip install beautifulsoup4
 （我安装了beautifulsoup是因为我做了个工具把博客园的博客导入过来。）
 mongodb 安装：http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
 
-###博客程序
+### 博客程序
 之前我用python+tornado+pymongo写了一套博客程序，只是给我自己使用，所以我放在了私有仓库[bitbucket](http://bitbucket.org)上。
 网站程序一般放在/var/www目录里。所以我用git clone把我的代码放到了/var/www/coderzh
 
@@ -47,7 +47,7 @@ cd /var/www
 git clone https://xxxxx.xxxx.xxx
 ```
 
-###MongoDB
+### MongoDB
 由于我的程序没有使用MongoDB默认的端口27017，所以我需要修改端口的设置。找到MongoDB的配置文件，修改port字段：
 
 ```
@@ -62,7 +62,7 @@ sudo service mongodb stop
 sudo service mongodb start
 ```
 
-###运行博客程序
+### 运行博客程序
 博客程序运行需要的环境已经基本配置好，这时运行博客程序看是否能正常起来：
 
 ```
@@ -71,7 +71,7 @@ sudo python /var/www/coderzh/main.py --port 8001
 
 打开浏览器试试能不能访问: ```http://服务器IP:8001```   OK，太棒了，一起正常。
 
-###Supervisor
+### Supervisor
 停掉刚才的main.py，这时候要上一个好东西。它就是Supervisor，它是一个进程监控守护程序。它负责开机时自动启动你配置好的程序，并且在你的程序莫名其妙挂掉时，Supervisor会自动去重启他们。可以说，它是网站稳定运行的后勤保障啊。
 
 新建一个Supervisor配置文件，放到/ect/supervisor/conf.d目录下，因为/etc/supervisor/supervisord.conf里配置了自动读取conf.d目录下的文件：
@@ -99,7 +99,7 @@ supervisorctl start all
 
 再次访问: ```http://服务器IP:8001```   试试，嗯，一起正常。Supervisor工作了。
 
-###Nginx
+### Nginx
 接下来上Nginx，它是一个HTTP和反向代理服务器。最终网站的访问经过域名解析到服务器后，都要通过Nginx将访问请求转到main.py中处理。理解Nginx的配置文件很重要，好吧，说实话，我当初摸Nginx，Apache之类的东西时都是一头雾水的。Nginx的主要配置文件路径在：/etc/nginx/nginx.conf
 
 为了让Nginx支持多域名，多Web服务。我修改/etc/nginx/nginx.conf 内容如下：
@@ -174,10 +174,10 @@ service nginx restart
 
 这时已经可以用80端口访问了。
 
-###DnsPod
+### DnsPod
 接下来就是通过DnsPod将域名解析到这台VPS服务器。应该不是什么问题，有问题可以查看DnsPod帮助。
 
-###部署完成
+### 部署完成
 执行导入工具，将博客园的博客导入进来。访问：[http://www.coderzh.com](http://www.coderzh.com)。HOHO，大功告成。
 
 

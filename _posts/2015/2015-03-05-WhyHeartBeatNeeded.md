@@ -11,7 +11,7 @@ keywords: [HeartBeat,KeepAlive,Ping]
 
 <!-- more -->
 
-![HeartBeat](http://mmbiz.qpic.cn/mmbiz/otHvoL6neeKA0dQuDEwUD4DN5ZmOXczgKfvHc8H92tMibYuWx0tgpKicR4Wee9v0NngTm2Mcj6D6UpxH8vdrDrMg/0?wxfrom=5)
+![HeartBeat](https://mmbiz.qlogo.cn/mmbiz/otHvoL6neeKA0dQuDEwUD4DN5ZmOXczgsYdoyVBtvHkXtd9wVDpv3KP9D6aSa3Uia7FacGib9HADALJgLribKge5Q/0)
 
 由于连接丢失时，TCP不会立即通知应用程序。比如说，客户端程序断线了，服务端的TCP连接不会检测到断线，而是一直处于连接状态。这就带来了很大的麻烦，明明客户端已经断了，服务端还维护着客户端的连接，照常执行着该玩家的游戏逻辑……
 

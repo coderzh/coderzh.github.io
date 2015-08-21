@@ -14,7 +14,7 @@ keywords: [从0到1]
 
 ![ZeroToOne](https://mmbiz.qlogo.cn/mmbiz/otHvoL6neeJ5oYLG0iaoNxdK2PicJibOmbEvIdIwkiaMdVw6kIWfFws0G5D3RQaHNue9GmkgzroiaMBUzHrlHvO5bow/0?wxfmt=jpeg)
 
-###简介
+### 简介
 
 硅谷创投教父、PayPal创始人作品，斯坦福大学改变未来的一堂课，为世界创造价值的商业哲学。
 
@@ -24,7 +24,7 @@ keywords: [从0到1]
 
 从0到1，为自己创造无限的机会与价值！
 
-###笔记摘要
+### 笔记摘要
 
 1. 成功人士总能在意想不到的地方发现价值，他们遵循的是基本原则，而非秘籍。
 1. 每个垄断企业都有自己的特色，但它们通常会综合以下几个特点：专利技术、网络效应、规模经济以及品牌优势。
