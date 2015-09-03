@@ -303,6 +303,7 @@ http://www.CodeHighlighter.com/
 [](http://www.cnblogs.com/coderzh/tag/PythonCookBook/)
 
 #### [Python    天天美味系列（总）](http://www.cnblogs.com/coderzh/archive/2008/07/08/pythoncookbook.html)  
+
 [Python      天天美味(30) - python数据结构与算法之快速排序](http://www.cnblogs.com/coderzh/archive/2008/09/20/1294947.html)&nbsp;       
   
 [Python      天天美味(31) - python数据结构与算法之插入排序](http://www.cnblogs.com/coderzh/archive/2008/09/21/1295434.html)&nbsp;
@@ -310,7 +311,5 @@ http://www.CodeHighlighter.com/
 [Python      天天美味(32) - python数据结构与算法之堆排序](http://www.cnblogs.com/coderzh/archive/2008/09/22/1296195.html)&nbsp;
   
 [Python      天天美味(33) - 五分钟理解元类（Metaclasses）[转]](http://www.cnblogs.com/coderzh/archive/2008/12/07/1349735.html)
-    [Python      天天美味(34) - Decorators详解](http://www.cnblogs.com/coderzh/archive/2010/04/27/python-cookbook33-Decorators.html) 
 
-&nbsp;
-<pre></pre>
+[Python      天天美味(34) - Decorators详解](http://www.cnblogs.com/coderzh/archive/2010/04/27/python-cookbook33-Decorators.html) 

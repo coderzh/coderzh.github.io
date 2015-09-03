@@ -281,4 +281,3 @@ http://www.CodeHighlighter.com/
   
 [Python 天天美味(34) - Decorators详解](http://www.cnblogs.com/coderzh/archive/2010/04/27/python-cookbook33-Decorators.html) 
 
-&nbsp;
